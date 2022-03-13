@@ -10,7 +10,6 @@
     "test": "jest",
     "watch": "rollup -c -w",
     "postinstall": "yarn run build",
-    "start":"set NODE_ENV=production&&node server.js"
   },
 
   "dependencies": {
